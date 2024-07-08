@@ -1,0 +1,12 @@
+flet==0.22.1
+sqlite==2.6.0
+cryptography==42.0.5
+opencv-python==4.9.0.80
+opencv-contrib-python==4.9.0.80
+scikit-learn==1.4.2
+plotly==5.22.0
+kaleido==0.2.1
+pandas==2.2.2
+geopy==2.4.1
+streamlit==1.35.0
+streamlit_extras==0.4.3
